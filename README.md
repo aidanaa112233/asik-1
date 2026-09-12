@@ -1,4 +1,4 @@
-# Software Design Patterns - Assignment #1 (Builder Pattern)
+# Software Design Patterns - Assignment #1 
 Tumenbai Aidana,SE-2511
 
 ## Project Overview
